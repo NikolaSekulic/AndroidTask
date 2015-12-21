@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AssecoZadatak</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Send request</string>
+    <string name="hint">Enter address</string>
+    <string name="error">Error!!!</string>
+    <string name="no_network">Device is not connected to network</string>
+    <string name="ok">OK</string>
+    <string name="invalid_url">URL is invalid</string>
+    <string name="ioexception">Unknown error (IOException)</string>
+    <string name="dao_exception">Unable to preform dao operation</string>
+    <string name="invalid_hash">Invalid hash</string>
+    <string name="dbStore">Database</string>
+    <string name="prefStore">Shared Preferences</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="urlLabel">URL</string>
+    <string name="hashLabel">Hash (SHA-256)</string>
+    <string name="storageLabel">Storage</string>
+    <string name="wait">Wait while loading...</string>
+    <string name="connecting">Sending HTTP request</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="back">Back</string>
+</resources>
